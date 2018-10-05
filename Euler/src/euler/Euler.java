@@ -20,6 +20,7 @@ public class Euler {
         // TODO code application logic here
         
         System.out.println("Bonjour!");
+        System.out.println("Voici une premiere modification");
     }
     
 }
